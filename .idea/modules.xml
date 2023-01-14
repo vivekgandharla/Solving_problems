@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Command line args/Command line args.iml" filepath="$PROJECT_DIR$/Command line args/Command line args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GFG(Complete Interview Preparation).iml" filepath="$PROJECT_DIR$/.idea/GFG(Complete Interview Preparation).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java code/Java code.iml" filepath="$PROJECT_DIR$/Java code/Java code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javainput/Javainput.iml" filepath="$PROJECT_DIR$/Javainput/Javainput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Non_primitive datatype/Non_primitive datatype.iml" filepath="$PROJECT_DIR$/Non_primitive datatype/Non_primitive datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Output in java/Output in java.iml" filepath="$PROJECT_DIR$/Output in java/Output in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitivedatatype/Primitivedatatype.iml" filepath="$PROJECT_DIR$/Primitivedatatype/Primitivedatatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto_boxing and unboxing/auto_boxing and unboxing.iml" filepath="$PROJECT_DIR$/auto_boxing and unboxing/auto_boxing and unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise/practise.iml" filepath="$PROJECT_DIR$/practise/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swap_two_numbers/swap_two_numbers.iml" filepath="$PROJECT_DIR$/swap_two_numbers/swap_two_numbers.iml" />
+    </modules>
+  </component>
+</project>
