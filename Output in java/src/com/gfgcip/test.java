@@ -1,8 +1,8 @@
-package com.gfgcip.;
+package com.gfgcip;
 import java.util.Scanner;
 public class test {
     public static void main(String[]args){
-        System.out.println("hey");
+        int a =
 
     }
 }
